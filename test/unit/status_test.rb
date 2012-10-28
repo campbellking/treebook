@@ -9,7 +9,7 @@ class StatusTest < ActiveSupport::TestCase
 
   test "that a status's content is as least 2 letters long" do
   	status = Status.new
-  	status.content ="H"
+  	status.content = "H"
   	assert !status.save
   	assert !status.errors[:content].empty?
   end
