@@ -3,3 +3,9 @@ campbell:
  last_name: "King"
  email: "ck@campbellking.com.au"
  profile_name: "campbellking"
+
+dane:
+ first_name: "Dane"
+ last_name: "Layton"
+ email: "dane@campbellking.com.au"
+ profile_name: "danelayton"
